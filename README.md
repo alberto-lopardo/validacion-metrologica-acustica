@@ -5,6 +5,7 @@ NumPy
 Pandas
 Matplotlib
 Norma
+
 ![image alt](https://github.com/alberto-lopardo/validacion-metrologica-acustica/blob/main/validacion_metrologica_fig2.png?raw=true)
 
 ⚠️ Aviso: Proyecto de portafolio con datos 100% sintéticos (simulando
