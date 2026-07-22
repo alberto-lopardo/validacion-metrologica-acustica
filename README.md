@@ -8,13 +8,14 @@ Norma
 
 ![image alt](https://github.com/alberto-lopardo/validacion-metrologica-acustica/blob/main/validacion_metrologica_fig2.png?raw=true)
 
-⚠️ Aviso: Proyecto de portafolio con datos 100% sintéticos (simulando
+⚠️ Aviso: 
+Proyecto de portafolio con datos 100% sintéticos (simulando
 exportaciones de sonómetros). No guarda relación con proyectos reales,
 clientes, metodologías propietarias ni datos confidenciales de empleadores
 actuales o anteriores. Las normativas citadas son de conocimiento público
 y su aplicación es meramente ilustrativa.
 
-📋 Descripción
+📋 Descripción:
 Sistema automatizado de validación metrológica para campañas de monitoreo
 acústico, conforme a los requisitos de trazabilidad de ISO 17025:2017
 e IEC 61672-1:2013.
